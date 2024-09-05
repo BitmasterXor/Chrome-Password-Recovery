@@ -31,4 +31,4 @@
 <p>Contributions are welcome! If you have improvements or bug fixes, please fork the repository and submit a pull request.</p>
 
 <h2>License</h2>
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
+<p>This project is provided as is without warantee, use at your own risk!</p>
