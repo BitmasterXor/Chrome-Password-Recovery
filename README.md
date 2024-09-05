@@ -16,8 +16,6 @@
 
 <h2>Installation</h2>
 <ol>
-  <li><strong>Clone the Repository:</strong></li>
-  <pre><code>git clone https://github.com/yourusername/chrome-password-recovery-tool.git</code></pre>
   <li><strong>Open Delphi Project:</strong> Open the `.dpr` file in Delphi IDE.</li>
   <li><strong>Compile:</strong> Build the project to generate the executable.</li>
   <li><strong>Run:</strong> Execute the tool to start using it.</li>
