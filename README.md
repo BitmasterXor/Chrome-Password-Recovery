@@ -23,7 +23,7 @@
      - `TMSCryptoPkgDEDXE??.dproj`
      - `TMSCryptoPkgDXE??.dproj`
      - *(The "??" represents your Delphi IDE version number.)*
-   - Open both files in the IDE simultaneously.
+   - Open both files in the IDE simultaneously. (HOLD DOWN SHIFT and click on them both to ensure both are selected then click the OPEN button)
    - Compile the packages:
      - Click once to compile the package.
      - Right-click on the installable package and select **Install**.
