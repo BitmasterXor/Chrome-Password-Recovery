@@ -14,13 +14,29 @@
   <li><strong>User-Friendly Interface:</strong> Simple and easy to use.</li>
 </ul>
 
-<h2>Installation</h2>
-<ol>
-  <li><strong>Open Delphi and Install the Required TMS Components from folder: Cryptography Library (REQUIREMENT YOU MUST INSTALL IT FROM SOURCE) THESE MUST BE INSTALLED TO COMPILE THE PROJECT VERY IMPORTANT!!!!!! </li>
-  <li><strong>Open Delphi Project:</strong> Open the `.dpr` file in Delphi IDE.</li>
-  <li><strong>Compile:</strong> Build the project to generate the executable.</li>
-  <li><strong>Run:</strong> Execute the tool to start using it.</li>
-</ol>
+## Installation
+
+1. **Install Required TMS Components:**
+   - Open the Delphi IDE.
+   - Click on **File -> Open...** and browse to the TMS Cryptography Suite components folder.
+   - Look for two files named:
+     - `TMSCryptoPkgDEDXE??.dproj`
+     - `TMSCryptoPkgDXE??.dproj`
+     - *(The "??" represents your Delphi IDE version number.)*
+   - Open both files in the IDE simultaneously.
+   - Compile the packages:
+     - Click once to compile the package.
+     - Right-click on the installable package and select **Install**.
+   - Update the Library Path:
+     - Go to **Tools -> Options...** and select **Library Path** for Win32.
+     - Add the path to the components directory where the `.dproj` files are located.
+
+2. **Open Delphi Project:** Open the `.dpr` file in the Delphi IDE.
+
+3. **Compile:** Build the project to generate the executable.
+
+4. **Run:** Execute the tool to start using it.
+
 
 <h2>Usage</h2>
 <ol>
