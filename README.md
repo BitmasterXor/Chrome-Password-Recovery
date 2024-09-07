@@ -16,6 +16,7 @@
 
 <h2>Installation</h2>
 <ol>
+  <li><strong>Open Delphi and Install the Required TMS Components from folder: Cryptography Library (REQUIREMENT YOU MUST INSTALL IT FROM SOURCE) THESE MUST BE INSTALLED TO COMPILE THE PROJECT VERY IMPORTANT!!!!!! </li>
   <li><strong>Open Delphi Project:</strong> Open the `.dpr` file in Delphi IDE.</li>
   <li><strong>Compile:</strong> Build the project to generate the executable.</li>
   <li><strong>Run:</strong> Execute the tool to start using it.</li>
