@@ -54,4 +54,4 @@
 
 Discord: BitmasterXor
 
-<p align="center">Made with ❤️ by: BitmasterXor, using Delphi RAD Studio</p>
+<p align="center">Made with ❤️ by: BitmasterXor and Friends, using Delphi RAD Studio</p>
